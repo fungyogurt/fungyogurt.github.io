@@ -3287,7 +3287,7 @@
 			height: 6.5em;
 			position: absolute;
 			width: 100%;
-			
+
 		.wrapper:before {
 			left: 0;
 			top: -6.5em;
@@ -3327,7 +3327,7 @@
 		}
 
 			.wrapper.style2:before, .wrapper.style2:after {
-				background-image:
+				background-image:url(http://www.enfont.com/fonts/xmas-cartoon/enfont-xmas-cartoon-preview.png)
 		}
 			}
 
@@ -3352,7 +3352,6 @@
 		}
 
 			.wrapper.style5:before, .wrapper.style5:after {
-				background-image: url
 			}
 
 		.wrapper.style6 {
@@ -3360,7 +3359,6 @@
 		}
 
 			.wrapper.style6:before, .wrapper.style6:after {
-				background-image: url
 			}
 
 		.wrapper.spotlight {
@@ -3444,7 +3442,6 @@
 			}
 
 				.wrapper.spotlight.style5:before, .wrapper.spotlight.style5:after {
-					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23324072;' /%3E%3C/svg%3E");
 				}
 
 			.wrapper.spotlight.style6 {
